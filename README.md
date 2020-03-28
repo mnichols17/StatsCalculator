@@ -2,7 +2,7 @@
 
 ### Issue with Travis CL
 Just like with the GroupCalculator, my project has errors regarding a missing package. My tests pass though so nothing is wrong with the code/tests.
-![Passing Test](https://github.com/mnichols17/421-StatsCalc/blob/master/tests.jpg)
+![Passing Test](https://github.com/mnichols17/StatsCalculator/blob/master/tests.jpg)
 
 * Calculator Object
    * Contains basic functions such as Addition, Subtraction, Multiplication, Division, Exponentiation and Radical -> Calls Radical static method from Math Operations
